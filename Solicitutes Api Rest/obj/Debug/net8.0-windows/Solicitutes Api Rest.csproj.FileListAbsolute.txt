@@ -1,0 +1,38 @@
+C:\Users\yailp\source\repos\Solicitutes Api Rest\Solicitutes Api Rest\obj\Debug\net8.0-windows\Solicitutes Api Rest.csproj.AssemblyReference.cache
+C:\Users\yailp\source\repos\Solicitutes Api Rest\Solicitutes Api Rest\obj\Debug\net8.0-windows\Solicitutes_Api_Rest.MenuPrincipal.resources
+C:\Users\yailp\source\repos\Solicitutes Api Rest\Solicitutes Api Rest\obj\Debug\net8.0-windows\Solicitutes Api Rest.csproj.GenerateResource.cache
+C:\Users\yailp\source\repos\Solicitutes Api Rest\Solicitutes Api Rest\obj\Debug\net8.0-windows\Solicitutes Api Rest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yailp\source\repos\Solicitutes Api Rest\Solicitutes Api Rest\obj\Debug\net8.0-windows\Solicitutes Api Rest.AssemblyInfoInputs.cache
+C:\Users\yailp\source\repos\Solicitutes Api Rest\Solicitutes Api Rest\obj\Debug\net8.0-windows\Solicitutes Api Rest.AssemblyInfo.cs
+C:\Users\yailp\source\repos\Solicitutes Api Rest\Solicitutes Api Rest\obj\Debug\net8.0-windows\Solicitutes Api Rest.csproj.CoreCompileInputs.cache
+C:\Users\yailp\source\repos\Solicitutes Api Rest\Solicitutes Api Rest\bin\Debug\net8.0-windows\Solicitutes Api Rest.exe
+C:\Users\yailp\source\repos\Solicitutes Api Rest\Solicitutes Api Rest\bin\Debug\net8.0-windows\Solicitutes Api Rest.deps.json
+C:\Users\yailp\source\repos\Solicitutes Api Rest\Solicitutes Api Rest\bin\Debug\net8.0-windows\Solicitutes Api Rest.runtimeconfig.json
+C:\Users\yailp\source\repos\Solicitutes Api Rest\Solicitutes Api Rest\bin\Debug\net8.0-windows\Solicitutes Api Rest.dll
+C:\Users\yailp\source\repos\Solicitutes Api Rest\Solicitutes Api Rest\bin\Debug\net8.0-windows\Solicitutes Api Rest.pdb
+C:\Users\yailp\source\repos\Solicitutes Api Rest\Solicitutes Api Rest\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\yailp\source\repos\Solicitutes Api Rest\Solicitutes Api Rest\obj\Debug\net8.0-windows\Solicitu.94B6521F.Up2Date
+C:\Users\yailp\source\repos\Solicitutes Api Rest\Solicitutes Api Rest\obj\Debug\net8.0-windows\Solicitutes Api Rest.dll
+C:\Users\yailp\source\repos\Solicitutes Api Rest\Solicitutes Api Rest\obj\Debug\net8.0-windows\refint\Solicitutes Api Rest.dll
+C:\Users\yailp\source\repos\Solicitutes Api Rest\Solicitutes Api Rest\obj\Debug\net8.0-windows\Solicitutes Api Rest.pdb
+C:\Users\yailp\source\repos\Solicitutes Api Rest\Solicitutes Api Rest\obj\Debug\net8.0-windows\Solicitutes Api Rest.genruntimeconfig.cache
+C:\Users\yailp\source\repos\Solicitutes Api Rest\Solicitutes Api Rest\obj\Debug\net8.0-windows\ref\Solicitutes Api Rest.dll
+C:\Users\yailp\OneDrive\Documentos\GitHub\Solicitutes-Api-Rest\Solicitutes Api Rest\bin\Debug\net8.0-windows\Solicitutes Api Rest.exe
+C:\Users\yailp\OneDrive\Documentos\GitHub\Solicitutes-Api-Rest\Solicitutes Api Rest\bin\Debug\net8.0-windows\Solicitutes Api Rest.deps.json
+C:\Users\yailp\OneDrive\Documentos\GitHub\Solicitutes-Api-Rest\Solicitutes Api Rest\bin\Debug\net8.0-windows\Solicitutes Api Rest.runtimeconfig.json
+C:\Users\yailp\OneDrive\Documentos\GitHub\Solicitutes-Api-Rest\Solicitutes Api Rest\bin\Debug\net8.0-windows\Solicitutes Api Rest.dll
+C:\Users\yailp\OneDrive\Documentos\GitHub\Solicitutes-Api-Rest\Solicitutes Api Rest\bin\Debug\net8.0-windows\Solicitutes Api Rest.pdb
+C:\Users\yailp\OneDrive\Documentos\GitHub\Solicitutes-Api-Rest\Solicitutes Api Rest\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\yailp\OneDrive\Documentos\GitHub\Solicitutes-Api-Rest\Solicitutes Api Rest\obj\Debug\net8.0-windows\Solicitutes Api Rest.csproj.AssemblyReference.cache
+C:\Users\yailp\OneDrive\Documentos\GitHub\Solicitutes-Api-Rest\Solicitutes Api Rest\obj\Debug\net8.0-windows\Solicitutes_Api_Rest.MenuPrincipal.resources
+C:\Users\yailp\OneDrive\Documentos\GitHub\Solicitutes-Api-Rest\Solicitutes Api Rest\obj\Debug\net8.0-windows\Solicitutes Api Rest.csproj.GenerateResource.cache
+C:\Users\yailp\OneDrive\Documentos\GitHub\Solicitutes-Api-Rest\Solicitutes Api Rest\obj\Debug\net8.0-windows\Solicitutes Api Rest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yailp\OneDrive\Documentos\GitHub\Solicitutes-Api-Rest\Solicitutes Api Rest\obj\Debug\net8.0-windows\Solicitutes Api Rest.AssemblyInfoInputs.cache
+C:\Users\yailp\OneDrive\Documentos\GitHub\Solicitutes-Api-Rest\Solicitutes Api Rest\obj\Debug\net8.0-windows\Solicitutes Api Rest.AssemblyInfo.cs
+C:\Users\yailp\OneDrive\Documentos\GitHub\Solicitutes-Api-Rest\Solicitutes Api Rest\obj\Debug\net8.0-windows\Solicitutes Api Rest.csproj.CoreCompileInputs.cache
+C:\Users\yailp\OneDrive\Documentos\GitHub\Solicitutes-Api-Rest\Solicitutes Api Rest\obj\Debug\net8.0-windows\Solicitu.94B6521F.Up2Date
+C:\Users\yailp\OneDrive\Documentos\GitHub\Solicitutes-Api-Rest\Solicitutes Api Rest\obj\Debug\net8.0-windows\Solicitutes Api Rest.dll
+C:\Users\yailp\OneDrive\Documentos\GitHub\Solicitutes-Api-Rest\Solicitutes Api Rest\obj\Debug\net8.0-windows\refint\Solicitutes Api Rest.dll
+C:\Users\yailp\OneDrive\Documentos\GitHub\Solicitutes-Api-Rest\Solicitutes Api Rest\obj\Debug\net8.0-windows\Solicitutes Api Rest.pdb
+C:\Users\yailp\OneDrive\Documentos\GitHub\Solicitutes-Api-Rest\Solicitutes Api Rest\obj\Debug\net8.0-windows\Solicitutes Api Rest.genruntimeconfig.cache
+C:\Users\yailp\OneDrive\Documentos\GitHub\Solicitutes-Api-Rest\Solicitutes Api Rest\obj\Debug\net8.0-windows\ref\Solicitutes Api Rest.dll

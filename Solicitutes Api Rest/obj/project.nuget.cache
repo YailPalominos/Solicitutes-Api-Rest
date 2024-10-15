@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0RTlhKIqPsE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yailp\\OneDrive\\Documentos\\GitHub\\Solicitutes-Api-Rest\\Solicitutes Api Rest\\Solicitutes Api Rest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yailp\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
